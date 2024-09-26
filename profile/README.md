@@ -1,5 +1,4 @@
 <div align="center">
-  <br>
   <h1>QuixAlert 🌱</h1>
   <strong>Empoderando Cidadãos, Transformando Comunidades!</strong>
 </div>
